@@ -150,7 +150,7 @@
                             <Website-URL>${project.url}</Website-URL>
                             <Issues-URL>${project.issueManagement.url}</Issues-URL>
                             <Plugin-Class>net.visualillusionsent.canarybuildplugin.CanaryBuildPlugin</Plugin-Class>
-                            <Plugin-Name>VIBotX Canary Build Plugin</Plugin-Name>
+                            <Plugin-Name>CanaryBuild</Plugin-Name>
                         </manifestEntries>
                     </archive>
                 </configuration>
